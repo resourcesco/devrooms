@@ -33,7 +33,7 @@
     "isomorphic-unfetch": "^3.1.0",
     "j2ref": "^1.0.0",
     "json-ptr": "^2.0.0",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "nanoevents": "^5.1.10",
     "nanoid": "^3.1.20",
     "path-to-regexp": "^6.2.0",
